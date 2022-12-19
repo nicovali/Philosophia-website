@@ -42,9 +42,9 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
 
         <div className="markdown-rendered">
             <Alert severity="info">
-                <AlertTitle>Want to know more?</AlertTitle>
-                🌱 <strong>Follow</strong> or <strong>DM</strong> me on Twitter at <span><a
-                href="https://twitter.com/tuancm">@tuancm</a></span>
+                <AlertTitle>Want to know more article about philosophie?</AlertTitle>
+                🌱 <strong>Go to philosophia.nicovali.tech</strong><span><a
+                href="https://philosophia.nicovali.tech">philosophia.nicovali.tech</a></span>
             </Alert>
             <div dangerouslySetInnerHTML={{__html: content}}/>
             {/*<button onClick={handleInternalLinkClick}>Click me</button>*/}
@@ -54,7 +54,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
             </div>
             <hr/>
             <footer>
-                <p>Powered by  <a href="https://github.com/TuanManhCao/digital-garden">Mind Stone</a>, © 2022</p>
+                <p>Powered by  <a href="https://nicovali.tech">Nico Vali</a>, © 2022</p>
             </footer>
         </div>
     );
