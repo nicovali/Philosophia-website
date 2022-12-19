@@ -1,5 +1,5 @@
 ---
-title: Anaximenes: A Pre-Socratic Philosopher and Student of Anaximander 
+title: Anaximenes - A Pre-Socratic Philosopher and Student of Anaximander 
 tags: [figure, philosopher, Greek philosophy, cosmology, natural science]
 ---
 ## Biography

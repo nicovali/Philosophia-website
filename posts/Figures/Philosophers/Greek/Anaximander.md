@@ -1,5 +1,6 @@
 ---
-title: Anaximander: A Pioneering Pre-Socratic Philosopher tags: [figure, philosopher, Greek philosophy, cosmology, natural science]
+title: Anaximander - A Pioneering Pre-Socratic Philosopher 
+tags: [figure, philosopher, Greek philosophy, cosmology, natural science]
 ---
 ## Biography
 

@@ -1,5 +1,5 @@
 ---
-title: Epictetus: A Greek Philosopher and Advocate of Stoicism 
+title: Epictetus - A Greek Philosopher and Advocate of Stoicism 
 tags: [figure, philosopher, Greek philosophy, Stoicism, ethics]
 ---
 ## Biography

@@ -1,5 +1,5 @@
 ---
-title: Seneca: A Roman Philosopher and Statesman 
+title: Seneca - A Roman Philosopher and Statesman 
 tags: [figure, philosopher, Roman philosophy, Stoicism, ethics]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Plato: A Founding Figure of Western Philosophy 
+title: Plato - A Founding Figure of Western Philosophy 
 tags: [figure, philosopher, Greek philosophy, metaphysics, ethics, politics]
 ---
 ## Biography

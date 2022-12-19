@@ -1,5 +1,6 @@
 ---
-## title: Avicenna - Persian Philosopher and Scientist tags: [figure, philosopher, Islam, science, medicine]
+title: Avicenna - Persian Philosopher and Scientist 
+tags: [figure, philosopher, Islam, science, medicine]
 ---
 ## Biography
 

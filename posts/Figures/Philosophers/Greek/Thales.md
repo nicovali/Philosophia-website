@@ -1,5 +1,5 @@
 ---
-title: Thales: The Father of Western Philosophy 
+title: Thales - The Father of Western Philosophy 
 tags: [timeline,figure,Greek philosophy,mathematics,cosmology]
 ---
 ## Highlight
