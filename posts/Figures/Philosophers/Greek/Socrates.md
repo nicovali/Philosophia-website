@@ -1,5 +1,5 @@
 ---
-title: Socrates: - The Founding Figure of Western Philosophy 
+title: Socrates - The Founding Figure of Western Philosophy 
 tags: [figure, philosopher, Greek philosophy, ethics, logic]
 ---
 ## Biography
