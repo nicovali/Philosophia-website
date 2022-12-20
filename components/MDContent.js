@@ -43,7 +43,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
         <div className="markdown-rendered">
             <Alert severity="info">
                 <AlertTitle>Want to know more article about philosophie?</AlertTitle>
-                🌱 <strong>Go to philosophia.nicovali.tech</strong><span><a
+                🌱 <strong>Go to </strong><span><a
                 href="https://philosophia.nicovali.tech">philosophia.nicovali.tech</a></span>
             </Alert>
             <div dangerouslySetInnerHTML={{__html: content}}/>
@@ -54,7 +54,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
             </div>
             <hr/>
             <footer>
-                <p>Powered by  <a href="https://nicovali.tech">Nico Vali</a>, © 2022</p>
+                <p>Powered by <a href="https://nicovali.tech">Nico Vali</a>, © 2022</p>
             </footer>
         </div>
     );
